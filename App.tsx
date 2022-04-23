@@ -10,8 +10,6 @@ export default function App() {
     DMSerifDisplay_400Regular
   })
 
-  const bla = 'fkdl'
-
   if (!fontsLoaded) {
     return <AppLoading />
   }
